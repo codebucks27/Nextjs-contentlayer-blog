@@ -1,0 +1,49 @@
+About:
+
+Dream Big, Work Hard, Achieve More!
+This Mantra Drives My Work As A Passionate Freelancer. I Blend Innovative Technology With Timeless Design For Captivating Digital Experiences. Inspired By Nature And Literature, I'm A Perpetual Learner Embracing Challenges. With Each Project, I Aim To Leave A Lasting Impact—One Pixel At A Time.
+
+Have a project in mind? Reach out to me 📞 from here and let's make it happen.
+
+_____________________________________________________________________________________
+
+Footer:
+
+Interesting Stories | Updates | Guides
+Subscribe to learn about new technology and updates. Join over 5000+ members community to stay up to date with latest news.
+© 2023 CodeBucks. All rights reserved.
+Made with ❤ by CodeBucks
+
+_____________________________________________________________________________________
+
+const insights = [
+  "20+ Projects Completed",
+  "3+ Years of Freelancing",
+  "99% Client Satisfaction",
+  "20K+ Subscribers",
+  "Authored In-Depth Course on Educative",
+  "Contributed as a Technical Course Reviewer 📝",
+  "Recipient of the Hackernoon Noonies Award 🏆",
+];
+
+_____________________________________________________________________________________
+
+const SkillList = [
+  "next.js",
+  "tailwind css",
+  "figma",
+  "javaScript",
+  "web design",
+  "Gatsby.js",
+  "strapi",
+  "firebase",
+  "generative AI",
+  "wireframing",
+  "SEO",
+  "framer motion",
+  "sanity",
+];
+
+_____________________________________________________________________________________
+
+Lottie Animation Link: https://lottiefiles.com/animations/sloth-meditate-SzNofNFhYY
