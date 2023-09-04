@@ -7,10 +7,10 @@
 This repository contains **starter code** for Personal Blog website created using NextJs. <br />
 
 For Demo and Final Code checkout following links👇: <br />
-[Nextjs Personal Blog Website](https://create-blog-with-nextjs.vercel.app/) <br />
+[Nextjs Personal Blog Website Demo](https://create-blog-with-nextjs.vercel.app/) <br />
 
 Final Code👇: <br />
-[Nextjs Personal Blog Website Final Code](https://gumroad.com) <br />
+[Nextjs Personal Blog Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/1QGLHOaRLwM <br />
