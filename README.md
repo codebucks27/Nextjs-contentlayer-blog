@@ -10,7 +10,8 @@ For Demo and Final Code checkout following links👇: <br />
 [Nextjs Personal Blog Website Demo](https://create-blog-with-nextjs.vercel.app/) <br />
 
 Final Code👇: <br />
-[Nextjs Personal Blog Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br />
+➡ Link 1💚: [Nextjs Personal Blog Website Final Code](https://github.com/codebucks27/Nextjs-tailwindcss-blog-template) <br />
+➡ Link 2💚(If you want to support): [Nextjs Personal Blog Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/1QGLHOaRLwM <br />
