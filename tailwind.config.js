@@ -15,7 +15,14 @@ module.exports = {
           gray: "#747474",
           grayLight: "#f2f2f2",
           grayDark: "#333333",
-          grayDarker: "#1b1b1b",}
+          grayDarker: "#1b1b1b",
+        },
+        fontFamily: {
+          sans: ["Manrope", "sans-serif"],
+          serif: ["Inter", "serif"],
+          mr: ["var(--font-mr)"],
+          in: ["var(--font-in)"]
+        },
     },
   },
   plugins: [],

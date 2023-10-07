@@ -13,7 +13,16 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${inter.manrope}`}>{children}</body>
+      <body 
+      className={cx(inter.variable, manrope.variable,
+        "bg-light dark:bg-dark",
+        "text-gray dark:text-gray-light",
+        "transition-colors duration-200 ease-in-out",
+        "font-mr",
+      )}
+      >{children}
+      
+      </body>
     </html>
   )
 }
