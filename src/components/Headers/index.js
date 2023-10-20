@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "./Logo";
 import Link from "next/link";
-import { DribbbleIcon, InstagramIcon, LinkedinIcon, TwitterIcon } from "../Icons";
+import { DribbbleIcon, InstagramIcon, LinkedinIcon, TwitterIcon,SunIcon } from "../Icons";
 
 const Header = () => {
   return(
@@ -13,12 +13,12 @@ const Header = () => {
         <Link href ="about" className="mx-2">About</Link>
         <Link href ="services" className="mx-2">Services</Link>
         <Link href ="contact" className="mr-2">Contact</Link>
-        <button>Light</button>
+        <button><SunIcon/></button>
       </nav>
       <div>
-        <a href="https:example.com//" className="inline-block w-6 h-6 mr-4"><DribbbleIcon className=""/ ></a>
-        <a href="https:example.com//"className="inline-block w-6 h-6 mr-4"><LinkedinIcon className=""/ ></a>
-        <a href="https:example.com//"className="inline-block w-6 h-6 mr-4"><TwitterIcon className=""/ ></a>
+        <a href="https:example.com//" className="inline-block w-6 h-6 mr-4"><DribbbleIcon className=" hover:scale-125 transition-all ease duration-200"/></a>
+        <a href="https:example.com//"className="inline-block w-6 h-6 mr-4"><LinkedinIcon className="hover:scale-125 transition-all ease duration-200"/></a>
+        <a href="https:example.com//"className="inline-block w-6 h-6 mr-4"><TwitterIcon className="hover:scale-125 transition-all ease duration-200"/></a>
 
       </div>
     </header>
