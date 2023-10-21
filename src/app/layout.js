@@ -1,7 +1,7 @@
 import "./globals.css";
 import { Inter,Manrope } from "next/font/google";
-import { cx } from "./utils";
-import Header from "../components/Headers";
+import { cx } from "@/src/utils";
+import Header from "@/src/Headers/index";
 
 const inter = Inter({
   subsets: ["latin"],

@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "./Logo";
 import Link from "next/link";
-import { DribbbleIcon, InstagramIcon, LinkedinIcon, TwitterIcon,SunIcon } from "../Icons";
+import { DribbbleIcon, InstagramIcon, LinkedinIcon, TwitterIcon,SunIcon } from "../components/Icons";
 
 const Header = () => {
   return(
