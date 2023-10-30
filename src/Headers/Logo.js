@@ -9,7 +9,7 @@ const Logo = () => {
         <div className='w-16 rounded- overflow-hidden border border-solid border-dark mr-4'>
             <Image src ={profileImg} alt="Abhinav" className="w-full h-auto rounded-full"/>
             </div>
-            <span className='font-bold text-xl'>SkinPluance</span>
+            <span className='font-bold text-xl'>SkinoPluance</span>
         
     </Link>
   )
