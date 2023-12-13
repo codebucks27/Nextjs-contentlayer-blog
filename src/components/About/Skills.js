@@ -4,14 +4,14 @@ const SkillList = [
   "figma",
   "javaScript",
   "web design",
-  "Gatsby.js",
+  "PHP",
   "strapi",
   "firebase",
   "generative AI",
   "wireframing",
   "SEO",
-  "framer motion",
-  "sanity",
+  "Desktop APPs",
+  "Mobile APPs",
 ];
 
 const Skills = () => {
