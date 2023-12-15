@@ -11,16 +11,16 @@ Footer:
 
 Interesting Stories | Updates | Guides
 Subscribe to learn about new technology and updates. Join over 5000+ members community to stay up to date with latest news.
-© 2023 CodeBucks. All rights reserved.
-Made with ❤ by CodeBucks
+© 2023 ToXicAPPs. All rights reserved.
+Made with ❤ by ToXicAPPs
 
 _____________________________________________________________________________________
 
 const insights = [
   "20+ Projects Completed",
   "3+ Years of Freelancing",
-  "99% Client Satisfaction",
-  "20K+ Subscribers",
+  "5% Client Satisfaction",
+  "1K+ Subscribers",
   "Authored In-Depth Course on Educative",
   "Contributed as a Technical Course Reviewer 📝",
   "Recipient of the Hackernoon Noonies Award 🏆",
