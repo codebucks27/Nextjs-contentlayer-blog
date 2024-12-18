@@ -11,6 +11,7 @@
   "dependencies": {
     "@dotlottie/react-player": "^1.2.1",
     "@supabase/auth-helpers-nextjs": "^0.7.4",
+    "@supabase/supabase-js": "^2.47.9",
     "@tailwindcss/forms": "^0.5.5",
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "10.4.15",
@@ -19,7 +20,7 @@
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
     "github-slugger": "^2.0.0",
-    "next": "15.0.2",
+    "next": "13.5.4",
     "next-contentlayer": "^0.3.4",
     "next-sitemap": "^4.2.2",
     "postcss": "8.4.31",

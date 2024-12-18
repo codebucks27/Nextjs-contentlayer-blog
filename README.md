@@ -1,4 +1,4 @@
-# Next.js 13 Blog Tutorial: Build SEO Optimized Personal Blog with Next.js, Contentlayer, and Tailwind CSS 🔥
+# Next.js Blog Tutorial: Build SEO Optimized Personal Blog with Next.js, Contentlayer, and Tailwind CSS 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/Nextjs-contentlayer-blog?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/Nextjs-contentlayer-blog?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
@@ -10,8 +10,8 @@ For Demo and Final Code checkout following links👇: <br />
 [Nextjs Personal Blog Website Demo](https://create-blog-with-nextjs.vercel.app/) <br />
 
 Final Code👇: <br />
-➡ Link 1💚: [Nextjs Personal Blog Website Final Code](https://github.com/codebucks27/Nextjs-tailwindcss-blog-template) <br />
-➡ Link 2💚(If you want to support): [Nextjs Personal Blog Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br />
+➡ Tutorial Code that uses Contentlayer: [Nextjs Personal Blog Website Final Code (contentlayer)](https://github.com/codebucks27/Nextjs-tailwindcss-blog-template/tree/Contentlayer) <br />
+➡ Latest Code with Velite.js instead of Contentlayer: [Nextjs Personal Blog Website Final Code (velite.js)](https://github.com/codebucks27/Nextjs-tailwindcss-blog-template) (Since contentlayer is not actively maintained, I've updated the code to use Velite.js instead.) <br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/1QGLHOaRLwM <br />
