@@ -1,6 +1,32 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss" source(none);
+@config "../../tailwind.config.js";
+
+/* Preserve the starter's Tailwind v3 colors and hover behavior. */
+@theme {
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-zinc-200: #e4e4e7;
+  --color-zinc-800: #27272a;
+  --color-neutral-700: #404040;
+  --color-neutral-800: #262626;
+  --color-sky-200: #bae6fd;
+  --color-sky-900: #0c4a6e;
+  --color-blue-200: #bfdbfe;
+  --color-blue-700: #1d4ed8;
+}
+
+@custom-variant hover (&:hover);
+
+@layer base {
+  *,
+  ::before,
+  ::after,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
 
 :root {
   --foreground-rgb: 0, 0, 0;
