@@ -92,3 +92,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Bun dependency upgrade
 
 Use Bun 1.4.2 and Node.js 22.13+ (22.x) or 24+: `bun install --frozen-lockfile`, `bun run dev`, `bun run lint`, `bun run build`, and `bun run start`. Dependencies now use Next.js 16, React 19, and Tailwind CSS 4; ESLint uses the compatible 9.x release with flat config and the CLI. Tailwind PostCSS and utility compatibility changes preserve the starter design; the layout gains a children JSDoc type. Deprecated Lottie/Auth Helpers packages are replaced with [dotlottie-react](https://github.com/LottieFiles/dotlottie-web/tree/main/packages/react)/[Supabase SSR](https://supabase.com/docs/guides/auth/server-side/migrating-to-ssr-from-auth-helpers), and unused Contentlayer packages with the [contentlayer2/next-contentlayer2 forks](https://github.com/timlrx/contentlayer2#switching-to-fork-packages). `bun.lock` replaces the npm lockfile.
+
+## From the creator
+
+My separate hosted product, SmartHeadshots, offers [professional headshots for your author profile](https://www.smartheadshots.ai/professional-headshots).
