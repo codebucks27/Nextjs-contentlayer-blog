@@ -96,3 +96,5 @@ Use Bun 1.4.2 and Node.js 22.13+ (22.x) or 24+: `bun install --frozen-lockfile`,
 ## From the creator
 
 My separate hosted product, SmartHeadshots, offers [professional headshots for your author profile](https://www.smartheadshots.ai/professional-headshots).
+
+Explore my other hosted product, [AI Room Design App for AI interior design](https://www.airoomdesignapp.com).
